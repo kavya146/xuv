@@ -1,0 +1,9 @@
+.caro-img {
+height: 500px !important;
+
+}
+.carosel-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
