@@ -20,14 +20,18 @@ const Contenthead = () => {
 
       <div className="xuv-content">
         <ul>
-          <li>Hello XUV 700</li>
-          <li>Hello Adrenox</li>
-          <li>Key Highlights</li>
-          <li>Features</li>
-          <li>Xplore 360</li>
-          <li>Reviews</li>
-          <li>Gallery</li>
-          <li>Variants and Pricing</li>
+          <li>
+            <a href="#">Features</a>
+          </li>
+          <li>
+            <a href="#">Gallery</a>
+          </li>
+          <li>
+            <a href="#">Variants and Pricing</a>
+          </li>
+          <li>
+            <a href="#">Press Release</a>
+          </li>
         </ul>
       </div>
     </div>

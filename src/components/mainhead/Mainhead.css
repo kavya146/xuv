@@ -8,4 +8,14 @@
     height: auto;
     width: 100%;
     background-color: #191919;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.main-login{
+    display: flex;
+    align-items: center;
+}
+.main-login a{
+    margin-right: 30px;
 }
