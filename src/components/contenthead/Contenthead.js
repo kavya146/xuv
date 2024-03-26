@@ -21,11 +21,9 @@ const Contenthead = () => {
       <div className="xuv-content">
         <ul>
           <li>
-            <a href="#">Features</a>
+            <a href="#">Features & Specifications</a>
           </li>
-          <li>
-            <a href="#">Gallery</a>
-          </li>
+
           <li>
             <a href="#">Variants and Pricing</a>
           </li>

@@ -6,7 +6,7 @@ const Press = () => {
   return (
     <div className="carosel-container">
       <div>
-        <h4 style={{ marginTop: "30px", marginBottom: "30px" }}>
+        <h4 style={{ marginTop: "30px", marginBottom: "30px", color: "wheat" }}>
           Press Release
         </h4>
       </div>
